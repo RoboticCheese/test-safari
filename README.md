@@ -1,11 +1,5 @@
 # Safari Cookbook
 
-[![Cookbook Version](http://img.shields.io/cookbook/v/safari.svg?style=flat-square)][cookbook]
-[![Build Status](http://img.shields.io/travis/dhoer/chef-safari.svg?style=flat-square)][travis]
-
-[cookbook]: https://supermarket.chef.io/cookbooks/safari
-[travis]: https://travis-ci.org/dhoer/chef-safari
-
 This cookbook provides a `safari_version` library method to retrieve Safari version installed, and a
 `safari_extension` resource to install Safari extensions.
 
